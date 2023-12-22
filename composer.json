@@ -2,7 +2,7 @@
     "name": "indigit/invoicexpress",
     "description": "A simple PHP wrapper for InvoiceXpress API",
     "homepage": "https://indigit.pt",
-    "version": "1.1.2",
+    "version": "1.1.3",
     "keywords": [
         "invoicexpress",
         "invoice",
